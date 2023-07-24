@@ -1,4 +1,4 @@
-# taiwan-weather-tool-kh
+# taiwan-weather-tool-kh (API)
 ## Installation
 
 ```bach
